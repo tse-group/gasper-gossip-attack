@@ -1,0 +1,9 @@
+fab deploy
+fab create
+fab info
+fab generateconfig
+fab check
+# ...
+fab uploadconfig
+fab destroy
+fab downloadlogs
